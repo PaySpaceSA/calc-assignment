@@ -2,7 +2,9 @@
 
 ## Scenario
 A “developer”, whom we shall name Bob, was tasked to build a service to calculate the tax payable for 1500 employees located across 4 different countries using the respective country’s tax calculation regime. It became evident that Bob proceeded, in desperation, to outsource the work to ChatGPT. Bob generated all the code through several prompts and then shipped the code to production.
+
 After a few serious support queries came in from very angry clients, Bob decided to go on lunch and never return.
+
 You have been approached to help fix the buggy service and save the company’s future.
 
 ## Resources
@@ -14,6 +16,7 @@ In this zip file you will find a .Net Solution containing the following projects
 ## The Original Spec
 The original spec as handed to Bob is as follows:
 Build a service that will bulk calculate and store the tax and net salary amounts for a given list of gross salaries using the specified country’s tax calculation regime.
+
 We support three different taxation regimes:
 -	**Progressive** – Where income is taxed according to the applicable bracket a tax table (read up on progressive tax calculations if you are unfamiliar with how they work).
 -	**Flat rate** – Where tax is a flat rate provided the income exceeds a given minimum amount.
