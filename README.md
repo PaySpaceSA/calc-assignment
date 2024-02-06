@@ -24,12 +24,12 @@ We support three different taxation regimes:
 
 The tax calculation regime for each one of the countries we will support are as follows:
 
-| Country      | Tax Regime  | Brackets/Rates |
-| ------------ | ----------- | ----------------------------------------------------------------------------------- |
+| Country      | Tax Regime  | Brackets/Rates                                                                                                |
+| ------------ | ----------- | ------------------------------------------------------------------------------------------------------------- |
 | USA          | Progressive | ![image](https://github.com/PaySpaceSA/calc-assignment/assets/159135258/dfabe11c-0bb0-4c4f-897c-aa24328b3ba2) |
 | South Africa | Progressive | ![image](https://github.com/PaySpaceSA/calc-assignment/assets/159135258/5041d874-60a2-4cb2-b93d-ebd527e4f361) |
-| Zimbabwe     | Flat Rate   | 20 000 ZWL if income exceeds 150000 ZWL                                             |
-| Mauritius    | Percentage  | 30%                                                                                 |
+| Zimbabwe     | Flat Rate   | 20 000 ZWL if income exceeds 150000 ZWL                                                                       |
+| Mauritius    | Percentage  | 30%                                                                                                           |
 
 
 As part of this task:
