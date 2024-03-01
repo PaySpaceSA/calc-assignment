@@ -44,6 +44,7 @@ There are four outcomes we want from this:
 -	Bug fixes: There is a bug somewhere that caused all the support queries. Try to find this bug and fix it. Additional acknowledgement will be awarded if you spot any other bugs that have not been picked up yet.
 -	Clean up: The entire service is smashed into a single file. Refactor the code as much as possible to make it more extensible and readable (Keep SOLID in mind). 
 -	Unit Tests: Add unit tests to cover the various elements that make up the service.
+-	once completed, please zip your repo & share it with TA Specialist you are working with via a Google Drive / similar link
 
 Note:
 -	The PostDeployment.sql seeds your database with all the relevant rates, brackets and income amounts to calculate for their respective countries.
