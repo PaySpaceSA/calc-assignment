@@ -39,15 +39,19 @@ As part of this task:
 
 ## Your Mission
 Bob made a concerted effort to design the database schemas. The service that he wrote does succeed in querying the relevant data and writing the calculated values accordingly. However, based on the number of support queries that Bob got, there is a bug somewhere in the calculation. The service also seems rather slow in calculating the tax amounts for only 1500 employees.
-There are four outcomes we want from this:
+
+We will be assessing you on the following:
 -	Performance: The service is slow and has a lot of room for improvement. We will be assessing your ability to optimize and justify on a technical level why the changes you have made improve performance.
 -	Bug fixes: There is a bug somewhere that caused all the support queries. Try to find this bug and fix it. Additional acknowledgement will be awarded if you spot any other bugs that have not been picked up yet.
 -	Clean up: The entire service is smashed into a single file. Refactor the code as much as possible to make it more extensible and readable (Keep SOLID in mind). 
 -	Unit Tests: Add unit tests to cover the various elements that make up the service.
--	once completed, please zip your repo & share it with TA Specialist you are working with via a Google Drive / similar link
+-	SQL: Your ability to write efficient SQL and any other changes that would benefit the solution.
 
 Note:
 -	The PostDeployment.sql seeds your database with all the relevant rates, brackets and income amounts to calculate for their respective countries.
+-	The use of stored procedures is encouraged.
 -	Feel free to make use of any packages that you see fit.
+-	Once completed, please zip your repo & share it with TA Specialist you are working with via a Google Drive / similar link.
+-	DON'T push your solution to Github or any other public platform.
 
 Hint: All the support queries that Bob received was from USA and SA clients. 
