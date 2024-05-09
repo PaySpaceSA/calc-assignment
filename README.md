@@ -49,7 +49,7 @@ We will be assessing you on the following:
 
 Note:
 -	The PostDeployment.sql seeds your database with all the relevant rates, brackets and income amounts to calculate for their respective countries.
--	The use of stored procedures is encouraged.
+-	The use of stored procedures is encouraged (e.g. Data retrieval).
 -	Feel free to make use of any packages that you see fit.
 -	Once completed, please zip your repo & share it with TA Specialist you are working with via a Google Drive / similar link.
 -	DON'T push your solution to Github or any other public platform.
